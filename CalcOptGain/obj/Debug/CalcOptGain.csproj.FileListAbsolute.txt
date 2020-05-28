@@ -1,0 +1,9 @@
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\bin\Debug\CalcOptGain.exe.config
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\bin\Debug\CalcOptGain.exe
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\bin\Debug\CalcOptGain.pdb
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\obj\Debug\CalcOptGain.Properties.Resources.resources
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\obj\Debug\CalcOptGain.csproj.GenerateResource.cache
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\obj\Debug\CalcOptGain.csproj.CoreCompileInputs.cache
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\obj\Debug\CalcOptGain.exe
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\obj\Debug\CalcOptGain.pdb
+C:\Users\36719\source\repos\cshap\CalcOptGain\CalcOptGain\obj\Debug\CalcOptGain.CalcOptGain.resources
